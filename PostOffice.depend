@@ -1,0 +1,115 @@
+# depslib dependency file v1.0
+1673905704 source:/home/keni/Documentos/PostOffice/main.cpp
+	<vector>
+	<iostream>
+	<fstream>
+	<sstream>
+	"Office.h"
+	"Carta.h"
+	"Telegrama.h"
+	"Bulto.h"
+	"Fecha.h"
+
+1673318986 /home/keni/Documentos/PostOffice/include/Office.h
+	"PostBag.h"
+	"Fecha.h"
+
+1673884413 /home/keni/Documentos/PostOffice/include/PostBag.h
+	"Fecha.h"
+	<iostream>
+
+1673821445 /home/keni/Documentos/PostOffice/include/Fecha.h
+	<iostream>
+
+1673885758 /home/keni/Documentos/PostOffice/include/Carta.h
+	"PostBag.h"
+	"Fecha.h"
+
+1673884246 /home/keni/Documentos/PostOffice/include/Telegrama.h
+	<PostBag.h>
+
+1673884238 /home/keni/Documentos/PostOffice/include/Bulto.h
+	<PostBag.h>
+
+1673392686 source:/home/keni/Documentos/PostOffice/src/Bulto.cpp
+	"Bulto.h"
+	<cmath>
+
+1673885294 source:/home/keni/Documentos/PostOffice/src/Carta.cpp
+	"Carta.h"
+
+1670529558 source:/home/keni/Documentos/PostOffice/src/Fecha.cpp
+	"Fecha.h"
+	<ctime>
+
+1673884179 source:/home/keni/Documentos/PostOffice/src/Office.cpp
+	"Office.h"
+	"Telegrama.h"
+	"Carta.h"
+	"Bulto.h"
+	<vector>
+	<array>
+
+1672628033 source:/home/keni/Documentos/PostOffice/src/PostBag.cpp
+	"PostBag.h"
+
+1673884485 source:/home/keni/Documentos/PostOffice/src/Telegrama.cpp
+	"Telegrama.h"
+
+1673905704 source:/media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/main.cpp
+	<vector>
+	<iostream>
+	<fstream>
+	<sstream>
+	"Office.h"
+	"Carta.h"
+	"Telegrama.h"
+	"Bulto.h"
+	"Fecha.h"
+
+1673318986 /media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/include/Office.h
+	"PostBag.h"
+	"Fecha.h"
+
+1673884413 /media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/include/PostBag.h
+	"Fecha.h"
+	<iostream>
+
+1673821445 /media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/include/Fecha.h
+	<iostream>
+
+1673885758 /media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/include/Carta.h
+	"PostBag.h"
+	"Fecha.h"
+
+1673884246 /media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/include/Telegrama.h
+	<PostBag.h>
+
+1673884238 /media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/include/Bulto.h
+	<PostBag.h>
+
+1673392686 source:/media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/src/Bulto.cpp
+	"Bulto.h"
+	<cmath>
+
+1673885294 source:/media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/src/Carta.cpp
+	"Carta.h"
+
+1670529558 source:/media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/src/Fecha.cpp
+	"Fecha.h"
+	<ctime>
+
+1673884179 source:/media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/src/Office.cpp
+	"Office.h"
+	"Telegrama.h"
+	"Carta.h"
+	"Bulto.h"
+	<vector>
+	<array>
+
+1672628033 source:/media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/src/PostBag.cpp
+	"PostBag.h"
+
+1673884485 source:/media/keni/diskeni/DEC_SALVAS/PC/Doc/PostOffice/src/Telegrama.cpp
+	"Telegrama.h"
+
